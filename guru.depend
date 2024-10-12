@@ -1,0 +1,66 @@
+# depslib dependency file v1.0
+1705578299 source:c:\users\tanze\onedrive\documents\guru\guru\imain.cpp
+	"iGraphics.h"
+
+1703609591 c:\users\tanze\onedrive\documents\guru\guru\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	"GL/glut.h"
+	<time.h>
+	<math.h>
+	<windows.h>
+	<GL/glaux.h>
+	"stb_image.h"
+
+1703609626 c:\users\tanze\onedrive\documents\guru\guru\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1728700752 source:c:\users\tanze\onedrive\documents\guru\imain.cpp
+	"iGraphics.h"
+	<stdbool.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<mmsystem.h>
+
+1703609591 c:\users\tanze\onedrive\documents\guru\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	"GL/glut.h"
+	<time.h>
+	<math.h>
+	<windows.h>
+	<GL/glaux.h>
+	"stb_image.h"
+
+1703609626 c:\users\tanze\onedrive\documents\guru\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
